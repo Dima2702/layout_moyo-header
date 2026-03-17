@@ -52,7 +52,6 @@ body {
 }
 
 .is-active {
-  height: 60px;
   color: var(--main-color);
   text-decoration: none;
   align-items: center;
